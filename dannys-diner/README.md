@@ -1,5 +1,5 @@
 Add Danny's Diner project README
-## 📌 Project Overview
+## Project Overview
 
 This project is a complete SQL case study based on **Danny’s Diner**, a fictional restaurant that wants to analyze customer purchasing behavior, membership impact, and loyalty points.
 
@@ -14,7 +14,7 @@ This project is inspired by the *8 Week SQL Challenge* and implemented independe
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 * **SQL (MySQL-compatible syntax)**
 * Concepts used:
@@ -26,9 +26,9 @@ This project is inspired by the *8 Week SQL Challenge* and implemented independe
 
 ---
 
-## 📂 Database Schema
+## Database Schema
 
-### 1️⃣ `menu`
+### `menu`
 
 Stores product-level information.
 
@@ -40,7 +40,7 @@ Stores product-level information.
 
 ---
 
-### 2️⃣ `members`
+### `members`
 
 Stores customer membership join dates.
 
@@ -51,7 +51,7 @@ Stores customer membership join dates.
 
 ---
 
-### 3️⃣ `sales`
+### `sales`
 
 Stores transaction-level data.
 
@@ -64,7 +64,7 @@ Stores transaction-level data.
 
 ---
 
-## 📊 Business Questions Answered
+## Business Questions Answered
 
 1. Total amount spent by each customer
 2. Number of days each customer visited the restaurant
@@ -77,9 +77,3 @@ Stores transaction-level data.
 9. Loyalty points earned (with sushi multiplier)
 10. Loyalty points with **first-week 2× multiplier**
 
-
-
-
----
-
-⭐ *If you found this project helpful, feel free to star the repository!*
